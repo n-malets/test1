@@ -23,7 +23,7 @@ main {
     padding: 20px;
     border: 1px solid red;
     grid-area: main;
-
+    margin: 5px;
 }
 aside {
     padding: 20px;
